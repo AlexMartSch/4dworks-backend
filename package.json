@@ -1,0 +1,18 @@
+{
+  "name": "4dworks",
+  "version": "1.0.0",
+  "description": "4dWorks BackEnd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/AlexMartSch/4dworks-backend.git"
+  },
+  "author": "AlexMartSch",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
